@@ -1,0 +1,39 @@
+2020-10-01 19:38:06,229 [6] ERROR MyLib.WebService - Please enter a positive number
+2020-10-01 19:38:18,885 [6] ERROR MyLib.WebService - Please enter a positive number
+2020-10-01 19:41:10,068 [6] ERROR MyLib.WebService - Please enter a positive number
+2020-10-01 20:22:48,837 [6] ERROR MyLib.WebService - Please enter a positive number
+2020-10-01 20:23:42,849 [6] ERROR MyLib.WebService - Please enter a positive number
+2020-10-01 20:25:27,401 [6] ERROR MyLib.WebService - Please enter a positive number
+2020-10-01 20:26:23,779 [6] ERROR MyLib.WebService - Please enter a positive number
+2020-10-01 20:27:37,039 [6] ERROR MyLib.WebService - Please enter a positive number
+2020-10-01 20:28:51,875 [6] ERROR MyLib.WebService - Value was either too large or too small for a Decimal.
+2020-10-01 20:48:54,255 [6] ERROR MyLib.WebService - '\' is an unexpected token. The expected token is '"' or '''. Line 1, position 15.
+2020-10-01 20:49:18,200 [10] ERROR MyLib.WebService - '\' is an unexpected token. The expected token is '"' or '''. Line 1, position 15.
+2020-10-01 20:52:58,634 [7] ERROR MyLib.WebService - '\' is an unexpected token. The expected token is '"' or '''. Line 1, position 15.
+2020-10-01 20:53:51,610 [6] ERROR MyLib.WebService - Data at the root level is invalid. Line 1, position 1.
+2020-10-01 20:57:14,250 [6] ERROR MyLib.WebService - Data at the root level is invalid. Line 1, position 1.
+2020-10-01 20:58:13,342 [6] ERROR MyLib.WebService - Data at the root level is invalid. Line 1, position 1.
+2020-10-01 20:58:19,156 [6] ERROR MyLib.WebService - Data at the root level is invalid. Line 1, position 1.
+2020-10-01 20:58:29,882 [6] ERROR MyLib.WebService - Data at the root level is invalid. Line 1, position 1.
+2020-10-01 20:59:17,604 [6] ERROR MyLib.WebService - The 'notde' start tag on line 1 position 49 does not match the end tag of 'note'. Line 1, position 171.
+2020-10-01 21:01:05,287 [6] ERROR MyLib.WebService - The 'notde' start tag on line 1 position 49 does not match the end tag of 'note'. Line 1, position 171.
+2020-10-01 21:01:10,367 [6] ERROR MyLib.WebService - The 'notde' start tag on line 1 position 49 does not match the end tag of 'note'. Line 1, position 171.
+2020-10-01 21:07:05,009 [7] ERROR MyLib.WebService - Data at the root level is invalid. Line 1, position 1.
+2020-10-01 21:07:13,421 [7] ERROR MyLib.WebService - Data at the root level is invalid. Line 1, position 1.
+2020-10-01 21:07:33,640 [7] ERROR MyLib.WebService - Data at the root level is invalid. Line 1, position 1.
+2020-10-07 11:28:26,289 [8] ERROR MyLib.WebService - The 'HPAsY' start tag on line 1 position 9 does not match the end tag of 'HPAY'. Line 1, position 166.
+2020-10-07 11:34:54,026 [7] ERROR MyLib.WebService - Name cannot begin with the ' ' character, hexadecimal value 0x20. Line 1, position 24.
+2020-10-07 11:35:34,443 [6] ERROR MyLib.WebService - Name cannot begin with the ' ' character, hexadecimal value 0x20. Line 1, position 24.
+2020-10-07 11:36:17,637 [6] ERROR MyLib.WebService - Unexpected XML declaration. The XML declaration must be the first node in the document, and no white space characters are allowed to appear before it. Line 1, position 24.
+2020-10-07 11:40:13,695 [6] ERROR MyLib.WebService - Unexpected XML declaration. The XML declaration must be the first node in the document, and no white space characters are allowed to appear before it. Line 1, position 24.
+2020-10-07 11:42:35,142 [7] ERROR MyLib.WebService - Name cannot begin with the ' ' character, hexadecimal value 0x20. Line 1, position 23.
+2020-10-07 11:43:54,610 [7] ERROR MyLib.WebService - Unexpected XML declaration. The XML declaration must be the first node in the document, and no white space characters are allowed to appear before it. Line 1, position 24.
+2020-10-07 11:44:15,988 [7] ERROR MyLib.WebService - Name cannot begin with the ' ' character, hexadecimal value 0x20. Line 1, position 2.
+2020-10-07 11:44:31,535 [7] ERROR MyLib.WebService - Name cannot begin with the ' ' character, hexadecimal value 0x20. Line 1, position 11.
+2020-10-07 11:51:03,256 [17] ERROR MyLib.WebService - '"' is an unexpected token. The expected token is '='. Line 1, position 266.
+2020-10-07 11:52:26,351 [9] ERROR MyLib.WebService - The 'catalog_item' start tag on line 1 position 493 does not match the end tag of 'item_number'. Line 1, position 544.
+2020-10-07 11:54:48,659 [8] ERROR MyLib.WebService - The 'catalog_item' start tag on line 1 position 493 does not match the end tag of 'item_number'. Line 1, position 544.
+2020-10-07 11:58:15,874 [8] ERROR MyLib.WebService - For security reasons DTD is prohibited in this XML document. To enable DTD processing set the DtdProcessing property on XmlReaderSettings to Parse and pass the settings into XmlReader.Create method.
+2020-10-07 12:02:15,417 [6] ERROR MyLib.WebService - '"' is an unexpected token. Expecting white space. Line 1, position 98.
+2020-10-07 19:36:31,415 [6] ERROR MyLib.WebService - Please enter a positive number
+2020-10-07 19:37:41,497 [6] ERROR MyLib.WebService - Please enter a positive number

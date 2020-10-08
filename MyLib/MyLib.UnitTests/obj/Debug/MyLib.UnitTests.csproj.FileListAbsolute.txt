@@ -1,0 +1,1 @@
+C:\Users\Steven\source\repos\MyLib\MyLib.UnitTests\obj\Debug\MyLib.UnitTests.csproj.CoreCompileInputs.cache
